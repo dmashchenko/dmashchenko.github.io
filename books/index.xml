@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://dmashchenko.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Books on My New Hugo Site</title>
+    <link>https://dmashchenko.github.io/books/</link>
+    <description>Recent content in Books on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dmashchenko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dmashchenko.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking In Systems</title>
       <link>https://dmashchenko.github.io/books/thinking-in-systems/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://dmashchenko.github.io/books/thinking-in-systems/</guid>
       <description>&lt;p&gt;A solid first book on systems theory: it starts with the basics and ends with a practical framework for managing systems.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://dmashchenko.github.io/about/</link>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dmashchenko.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Dima Mashchenko&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am an engineer with nearly 20 years of experience. I love building systems and teams.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
