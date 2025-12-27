@@ -1,6 +1,6 @@
 body {
     color: #353535;
-    background-color: #fff;
+    background-color: #f5f5f5;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.5;
     margin: 1rem auto;
@@ -19,12 +19,12 @@ footer {
 }
 
 a {
-    color: #353535;
+    color: #424242;
     text-decoration: none;
 }
 
 a:hover {
-    color: #fff;
+    color: #f5f5f5;
     background-color: #353535;
     text-decoration: none;
 }
@@ -47,16 +47,68 @@ h2 {
     font-size: 2rem;
 }
 
-nav ul {
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-icon-container {
+    order: 1;
+}
+
+.menu-items-container {
+    order: 2;
+    flex-grow: 1;
+}
+
+.menu-icon-container {
+    order: 3;
+    position: relative;
+}
+
+.menu-items-container ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
-nav ul li {
+.menu-items-container ul li {
     display: inline-block;
+    margin: 0 0.5rem;
+}
+
+.technical-menu-items-container {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background-color: #f5f5f5;
+    border: 1px solid #353535;
+    padding: 1rem;
+    z-index: 1;
+}
+
+.technical-menu-items-container.show-menu {
+    display: block;
+}
+
+.technical-menu-items-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.technical-menu-items-container ul li {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+body.dark-mode .technical-menu-items-container {
+    background-color: #212121;
+    border: 1px solid #cfcfcf;
 }
 
 .article-list {
@@ -96,15 +148,48 @@ hr.filler {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
 .book-tags li {
-    display: inline-block;
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-    background-color: #f2f2f2;
+    background-color: #e0e0e0;
     padding: 0.25rem 0.75rem;
     border-radius: 3px;
+}
+
+.book-tags li a {
+    color: #353535;
+}
+
+.book-tags li:hover {
+    background-color: #353535;
+}
+
+.book-tags li:hover a {
+    color: #f5f5f5;
+}
+
+body.dark-mode .book-tags li {
+    background-color: #424242;
+}
+
+body.dark-mode .book-tags li a {
+    color: #cfcfcf;
+}
+
+body.dark-mode .book-tags li:hover {
+    background-color: #cfcfcf;
+}
+
+body.dark-mode .book-tags li:hover a {
+    color: #212121;
+}
+
+body.dark-mode .book-tags li:hover a:hover {
+    color: #212121;
+    background-color: transparent;
 }
 
 .latest-book-recommendations {
@@ -154,6 +239,7 @@ hr.filler {
     margin-top: 0;
     margin-bottom: 1rem;
     line-height: 1.6;
+    text-align: justify;
 }
 
 .about-container {
@@ -186,13 +272,38 @@ hr.filler {
     display: inline-block;
     padding: 10px 20px;
     background-color: #353535;
-    color: #fff;
+    color: #f5f5f5;
     border: 1px solid #353535;
     border-radius: 3px;
     text-decoration: none;
 }
 
+body.dark-mode a {
+    color: #cfcfcf;
+}
+
+body.dark-mode {
+    background-color: #212121;
+    color: #cfcfcf;
+}
+
 .btn:hover {
-    background-color: #fff;
-    color: #353535;
+    background-color: #f5f5f5;
+    color: #424242;
+}
+
+.menu-icon {
+    display: inline-block;
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .book-recommendation-item {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.article-content p {
+    text-align: justify;
 }

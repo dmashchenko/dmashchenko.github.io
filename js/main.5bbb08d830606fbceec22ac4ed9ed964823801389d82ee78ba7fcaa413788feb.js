@@ -1,0 +1,1 @@
+(()=>{document.addEventListener("DOMContentLoaded",function(){let e=document.querySelector(".menu-icon"),n=document.querySelector(".technical-menu-items-container");e&&n&&e.addEventListener("click",function(){n.classList.toggle("show-menu")})});})();
