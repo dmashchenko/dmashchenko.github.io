@@ -1,7 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-  <meta charset="utf-8">
+  <script>
+  
+  
+  
+  (function() {
+    try {
+      const savedTheme = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+        document.documentElement.classList.add('dark-mode');
+      }
+    } catch (e) {
+      
+    }
+  })();
+</script>
+
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>System: origins and meanings | Dima Mashchenko</title>
 <link
@@ -10,14 +27,14 @@
 />
 <link
     rel="stylesheet"
-    href="/css/main.min.7f41782b2bab103427387a3b18ca3bdf4567812fca3170127e9b6df0069f4353.css"
-    integrity="sha256-f0F4KyurEDQnOHo7GMo730VngS/KMXASfptt8AafQ1M="
+    href="/css/main.min.98592ab5c90520b4fc23ca62450f8dc1b73b441f96373a622f7f76509b2f1fe7.css"
+    integrity="sha256-mFkqtckFILT8I8piRQ&#43;Nwbc7RB&#43;WNzpiL392UJsvH&#43;c="
     crossorigin="anonymous"
 />
 
 
         <script src="/js/main.5bbb08d830606fbceec22ac4ed9ed964823801389d82ee78ba7fcaa413788feb.js" integrity="sha256-W7sI2DBgb7zuwirE7Z7ZZII4ATidgu54un/KpBN4j&#43;s=" crossorigin="anonymous"></script>
-        <script src="/js/theme.7e8df0c3ee681ead320057fa90f2133541e0d01442d9579d608d016117902800.js" integrity="sha256-fo3ww&#43;5oHq0yAFf6kPITNUHg0BRC2VedYI0BYReQKAA=" crossorigin="anonymous"></script>
+        <script src="/js/theme.e5abe7e6c5c66c5b93183baff69964162261f1a6b97355f1ee1fac653715a845.js" integrity="sha256-5avn5sXGbFuTGDuv9plkFiJh8aa5c1Xx7h&#43;sZTcVqEU=" crossorigin="anonymous"></script>
         <script src="/js/lang.a21135f8849ef78363378f19e04b018c5415afb4cc02bf427709c9a5d656c9d5.js" integrity="sha256-ohE1&#43;ISe94NjN48Z4EsBjFQVr7TMAr9CdwnJpdZWydU=" crossorigin="anonymous"></script>
 
 
