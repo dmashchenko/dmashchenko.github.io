@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dima Mashchenko</title>
+    <link>https://dmashchenko.github.io/ua/</link>
+    <description>Recent content on Dima Mashchenko</description>
+    <generator>Hugo</generator>
+    <language>ua</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dmashchenko.github.io/ua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Система: походження та сенси</title>
+      <link>https://dmashchenko.github.io/ua/articles/2025/system/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmashchenko.github.io/ua/articles/2025/system/</guid>
+      <description>&lt;p&gt;Це перша стаття.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

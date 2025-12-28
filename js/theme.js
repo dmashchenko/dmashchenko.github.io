@@ -2,19 +2,26 @@
   // <stdin>
   document.addEventListener("DOMContentLoaded", function() {
     const themeSwitcher = document.querySelector('a[href="#"][data-name="Mode"]');
-    const icon = themeSwitcher.querySelector("i");
+    let icon = null;
     function setTheme(theme) {
       if (theme === "dark") {
         document.body.classList.add("dark-mode");
-        icon.classList.remove("fa-moon");
-        icon.classList.add("fa-sun");
+        if (icon) {
+          icon.classList.remove("fa-moon");
+          icon.classList.add("fa-sun");
+        }
         localStorage.setItem("theme", "dark");
       } else {
         document.body.classList.remove("dark-mode");
-        icon.classList.remove("fa-sun");
-        icon.classList.add("fa-moon");
+        if (icon) {
+          icon.classList.remove("fa-sun");
+          icon.classList.add("fa-moon");
+        }
         localStorage.setItem("theme", "light");
       }
+    }
+    if (themeSwitcher) {
+      icon = themeSwitcher.querySelector("i");
     }
     const savedTheme = localStorage.getItem("theme");
     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;

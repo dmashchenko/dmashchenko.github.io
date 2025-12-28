@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Dima Mashchenko</title>
+    <link>http://localhost:1313/tags/first/</link>
+    <description>Recent content in First on Dima Mashchenko</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First article</title>
+      <link>http://localhost:1313/articles/2025/system/</link>
+      <pubDate>Thu, 05 Jan 2023 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/articles/2025/system/</guid>
+      <description>&lt;p&gt;This is the content of my first example article.&#xA;It demonstrates how to create a new article in the &lt;code&gt;articles&lt;/code&gt; section.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

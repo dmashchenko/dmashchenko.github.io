@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Dima Mashchenko</title>
     <link>https://dmashchenko.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Dima Mashchenko</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dmashchenko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System: origins and meanings</title>
+      <link>https://dmashchenko.github.io/articles/2025/system/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmashchenko.github.io/articles/2025/system/</guid>
+      <description>&lt;p&gt;This is the content of my first example article.&#xA;It demonstrates how to create a new article in the &lt;code&gt;articles&lt;/code&gt; section.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thinking In Systems</title>
       <link>https://dmashchenko.github.io/books/thinking-in-systems/</link>
