@@ -119,9 +119,6 @@
                 href="https://dmashchenko.github.io/book_tags/"
                 />
   </url><url>
-    <loc>https://dmashchenko.github.io/books/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dmashchenko.github.io/book_categories/introduction/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -134,7 +131,30 @@
     <loc>https://dmashchenko.github.io/books/thinking-in-systems/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dmashchenko.github.io/books/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://dmashchenko.github.io/ua/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dmashchenko.github.io/books/"
+                />
+  </url><url>
     <loc>https://dmashchenko.github.io/about/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://dmashchenko.github.io/ua/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dmashchenko.github.io/about/"
+                />
   </url>
 </urlset>

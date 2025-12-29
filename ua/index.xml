@@ -15,5 +15,12 @@
       <guid>https://dmashchenko.github.io/ua/articles/2025/system/</guid>
       <description>&lt;p&gt;Це перша стаття.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Дмитро</title>
+      <link>https://dmashchenko.github.io/ua/about/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmashchenko.github.io/ua/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Дмитро Мащенко&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Люблю будувати системи та команди. В інженерії більше 20 років.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
