@@ -54,6 +54,9 @@
                 href="https://dmashchenko.github.io/categories/introduction/"
                 />
   </url><url>
+    <loc>https://dmashchenko.github.io/tags/system/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dmashchenko.github.io/articles/2025/system/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,19 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dmashchenko.github.io/articles/2025/system/"
-                />
-  </url><url>
-    <loc>https://dmashchenko.github.io/tags/systems/</loc>
-    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://dmashchenko.github.io/ua/tags/systems/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dmashchenko.github.io/tags/systems/"
                 />
   </url><url>
     <loc>https://dmashchenko.github.io/tags/</loc>
