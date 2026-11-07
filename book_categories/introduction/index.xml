@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Introduction on Dima Mashchenko</title>
-    <link>https://dmashchenko.github.io/book_categories/introduction/</link>
-    <description>Recent content in Introduction on Dima Mashchenko</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dmashchenko.github.io/book_categories/introduction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Thinking In Systems</title>
-      <link>https://dmashchenko.github.io/books/thinking-in-systems/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dmashchenko.github.io/books/thinking-in-systems/</guid>
-      <description>&lt;p&gt;A solid first book on systems theory: it starts with the basics and ends with a practical framework for managing systems.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Introduction on Dima Mashchenko</title>
+		<link>https://dmashchenko.github.io/book_categories/introduction/</link>
+		<description>Recent content in Introduction on Dima Mashchenko</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://dmashchenko.github.io/book_categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Thinking In Systems</title>
+				<link>https://dmashchenko.github.io/books/thinking-in-systems/</link>
+				<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://dmashchenko.github.io/books/thinking-in-systems/</guid>
+				<description>&lt;p&gt;A solid first book on systems theory: it starts with the basics and ends with a practical framework for managing systems.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
