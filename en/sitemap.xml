@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dmashchenko.github.io/book_categories/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://dmashchenko.github.io/book_categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://dmashchenko.github.io/ua/book_categories/"
+                />
+  </url><url>
+    <loc>https://dmashchenko.github.io/book_tags/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://dmashchenko.github.io/book_tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://dmashchenko.github.io/ua/book_tags/"
+                />
+  </url><url>
+    <loc>https://dmashchenko.github.io/books/concepts-of-programming-languages/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmashchenko.github.io/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://dmashchenko.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://dmashchenko.github.io/ua/"
+                />
+  </url><url>
+    <loc>https://dmashchenko.github.io/book_categories/introduction/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmashchenko.github.io/book_tags/programming-languages/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dmashchenko.github.io/articles/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,19 +74,6 @@
                 rel="alternate"
                 hreflang="uk"
                 href="https://dmashchenko.github.io/ua/categories/"
-                />
-  </url><url>
-    <loc>https://dmashchenko.github.io/</loc>
-    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://dmashchenko.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://dmashchenko.github.io/ua/"
                 />
   </url><url>
     <loc>https://dmashchenko.github.io/categories/introduction/</loc>
@@ -82,35 +117,6 @@
                 hreflang="uk"
                 href="https://dmashchenko.github.io/ua/tags/"
                 />
-  </url><url>
-    <loc>https://dmashchenko.github.io/book_categories/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://dmashchenko.github.io/book_categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://dmashchenko.github.io/ua/book_categories/"
-                />
-  </url><url>
-    <loc>https://dmashchenko.github.io/book_tags/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://dmashchenko.github.io/book_tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://dmashchenko.github.io/ua/book_tags/"
-                />
-  </url><url>
-    <loc>https://dmashchenko.github.io/book_categories/introduction/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmashchenko.github.io/book_tags/models/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>

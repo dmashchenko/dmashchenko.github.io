@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://dmashchenko.github.io/book_tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Programming-Languages</title>
+				<link>https://dmashchenko.github.io/book_tags/programming-languages/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://dmashchenko.github.io/book_tags/programming-languages/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Models</title>
 				<link>https://dmashchenko.github.io/book_tags/models/</link>
